@@ -1,4 +1,4 @@
-package ua.lviv.lgs.springbootdemo;
+package ua.lviv.lgs;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
